@@ -8,3 +8,21 @@ body, html {
 	height: 100%
 	margin: 0;
 }
+.blink-two {
+  	font-family: Century Gothic;
+  	text-transform: uppercase;	
+	color: white;
+	animation: blinker-two 1.4s linear infinite;
+	}
+	@keyframes blinker-two {
+	100% {
+	  opacity: 0;
+	}
+}
+.blink-two {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)		
+}
