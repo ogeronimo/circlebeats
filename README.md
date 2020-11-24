@@ -1,12 +1,12 @@
 # circlebeats
 PROJECT DESCRIPTION:
 
-As a Software Engineer, the objective of this portfolio is to showcase my skills in problem solving, efficient algorithms, and design. All Projects shown, display my competence in taking an idea to fruition. From conceptual designs and wireframes to building the front-end and back-end you can see a variety of Webb-apps that has the potential to help other people in their businesses.
+This is a web app that enables you to play with different sounds and beats to explore your creativity. Use your computer keyboard as a piano key player to play different sounds effects. All of this by displaying colors each time you press a key on your keyboard..
 
 OBJECTIVE:
 
-Showcase Software Engineering skills and projects.
+Use your computer keyboard to create songs and beats.
 
 PROGRAMS USED:
 
-HTML, CSS, JavaScript, Python,PHP, SQL, and Bootstrap
+HTML, CSS, JavaScript, MongoDB, and other third-party APIs.
